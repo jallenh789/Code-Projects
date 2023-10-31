@@ -1,2 +1,2 @@
 # LeetCode
-saving project from leetcode here
+saving projects from leetcode here
