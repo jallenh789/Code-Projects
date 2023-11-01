@@ -3,7 +3,7 @@ saving projects from leetcode,HackerRank and CodeWars within there respective fl
 a log of what projects are in each folder are listed below. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
-LeetCode:number of projects. 3
+LeetCode:number of projects. 5
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Sleep.js-
 HelloWorldFunction.js-
